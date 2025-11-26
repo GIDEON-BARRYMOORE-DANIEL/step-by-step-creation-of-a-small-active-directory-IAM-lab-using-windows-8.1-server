@@ -87,7 +87,7 @@ Result: USB and external drives are disabled for all users in the **Accounts OU*
 
 ## Screenshots
 
-- [AD Domain Structure][https://github.com/GIDEON-BARRYMOORE-DANIEL/step-by-step-creation-of-a-small-active-directory-IAM-lab-using-windows-8.1-server/blob/main/screenshots/Screenshot-2025-11-25-230638.png]
+- [AD Domain Structure](https://github.com/GIDEON-BARRYMOORE-DANIEL/step-by-step-creation-of-a-small-active-directory-IAM-lab-using-windows-8.1-server/blob/main/screenshots/Screenshot-2025-11-25-230638.png)
 - GPO Editor Screenshot
 - PC joined to domain
 - Result of denied USB access
