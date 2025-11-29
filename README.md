@@ -1,5 +1,5 @@
 
-# Active Directory Simulation – CyberTech Solutions
+# Active Directory Simulation – Nxgluxury Limited
 
 This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called **CyberTech Solutions**. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
 
@@ -11,7 +11,7 @@ This project is the deployment of a Windows Server Domain Controller (Active Dir
 
 - 1 x Windows Server (AD Domain Controller)
 - 1 x Windows 8 Client PC (Account Department)
-- 1 x Windows 7 Client PC (Legacy Software)
+- 1 x Windows 8.1 Client PC (Legacy Software)
 
 ---
 
@@ -48,8 +48,8 @@ Server  PC1 (Win 8)   PC2 (Win XP)
 
 ## Domain Configuration
 
-- **Domain Name**: `cybertech.local`
-- **Server Name**: `CYBERTECH`
+- **Domain Name**: `nxgluxurylimited.local`
+- **Server Name**: `NxG Network`
 - **Static IP**: `10.0.5.5`
 - **AD Roles Installed**: AD DS, DNS (DHCP)
 
@@ -62,11 +62,11 @@ Created using **Active Directory Users and Computers**:
 ```
 CyberTech.local
 ├── OU: IT Department
-│   └── Users: Alex.IT
-    └── Users: Charles.IT
+   └── Users: debz.IT
+    
 
-├── OU: Sales
-│   └── Users:
+├── OU: Marketing
+│   └── Users:Jay.Market
 ```
 
 ---
@@ -105,5 +105,5 @@ Result: USB and external drives are disabled for all users in the **Accounts OU*
 
 ## Author
 
-**Aliu B. Sanusi**  
+**Gideon B Daniel**  
 Cybersecurity Analyst  
