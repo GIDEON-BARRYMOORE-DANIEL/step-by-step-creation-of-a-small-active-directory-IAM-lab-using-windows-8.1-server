@@ -7,7 +7,7 @@ This project is the deployment of a Windows Server Domain Controller (Active Dir
 
 ## Company Structure
 
-**Nxgluxury Limited** is a small IT services firm with the following structure:
+**Nxgluxury Limited** is a small luxury clothing brand service firm with the following structure:
 
 - 1 x Windows Server (AD Domain Controller)
 - 1 x Windows 8 Client PC (Account Department)
