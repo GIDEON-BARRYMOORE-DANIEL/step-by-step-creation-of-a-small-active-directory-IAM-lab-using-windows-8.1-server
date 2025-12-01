@@ -1,7 +1,7 @@
 
 # Active Directory Simulation – Nxgluxury Limited
 
-This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called **CyberTech Solutions**. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
+This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called **Nxgluxury Limited**. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
 
 ---
 
